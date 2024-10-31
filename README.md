@@ -1,7 +1,7 @@
 # TRIVIA GAME
 <div align="center">
   
-  ![project preview](https://raw.githubusercontent.com/rolwane/trivia-game/main/src/images/preview.gif)
+ 
   
 </div>
 
